@@ -1,0 +1,7 @@
+C:\Users\Alex\Documents\SharpDevelop Projects\DoomLauncher\DoomLauncher\bin\Debug\DoomLauncher.exe
+C:\Users\Alex\Documents\SharpDevelop Projects\DoomLauncher\DoomLauncher\bin\Debug\DoomLauncher.pdb
+C:\Users\Alex\Documents\SharpDevelop Projects\DoomLauncher\DoomLauncher\obj\Debug\DoomLauncher.vbprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\SharpDevelop Projects\DoomLauncher\DoomLauncher\obj\Debug\DoomLauncher.MainForm.resources
+C:\Users\Alex\Documents\SharpDevelop Projects\DoomLauncher\DoomLauncher\obj\Debug\DoomLauncher.vbproj.GenerateResource.Cache
+C:\Users\Alex\Documents\SharpDevelop Projects\DoomLauncher\DoomLauncher\obj\Debug\DoomLauncher.exe
+C:\Users\Alex\Documents\SharpDevelop Projects\DoomLauncher\DoomLauncher\obj\Debug\DoomLauncher.pdb
